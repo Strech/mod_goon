@@ -11,7 +11,7 @@ This is exactly the same as original ejabberd mod_ping, except one thing — now
 
 `{action_delay, MilliSeconds}`
 
-How many time to wait before trigger timeout_action callback.
+How many time to wait before trigger timeout_action callback
 
 ## Example
 
