@@ -7,7 +7,7 @@ This is exactly the same as original ejabberd mod_ping, except one thing — now
 
 **Ejabberd mod_ping configuration:** https://git.process-one.net/ejabberd/mainline/blobs/raw/v2.1.11/doc/guide.html#htoc51
 
-## Extended mod_goon configuration options:
+## Extended mod_goon configuration options
 
 `{action_delay, MilliSeconds}`
 
